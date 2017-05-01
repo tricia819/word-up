@@ -27,6 +27,15 @@ main {
     color: #d9534f; /* Bootstrap "danger" red */
 }
 
+.good-word {
+    background-color: blue;
+
+}
+
+.bad-word {
+    background-color: red;
+
+}
 /* A chip to display a letter or a wordSubmission */
 .tag-lg {
     margin-right: 2%;
